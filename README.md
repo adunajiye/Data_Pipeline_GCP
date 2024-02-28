@@ -14,5 +14,5 @@ Before you start using the pipeline, make sure you have the following software i
 <li>The google-cloud-pubsub Python packages installed in your environment</li>
 <li>Docker (optional)</li>
 
-# Insttallation
+# Installation
 
